@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 貝多樹下思惟十二因緣經
+#+DATE: 2015-08-30 20:18:13.974028
+#+PROPERTY: JUAN 0
