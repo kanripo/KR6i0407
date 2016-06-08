@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:13.776144
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 貝多樹下思惟十二因緣經
 #+PROPERTY: CBETA_ID T16n0713
 #+PROPERTY: ID KR6i0407
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 713
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0407_T_001-0826b> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.713[Nos.714,715]¶
-
- 《貝多樹下思惟十二因緣經》(亦名聞城¶
+No. 713 [Nos. 714, 715]¶
+《貝多樹下思惟十二因緣經》(亦名聞城¶
 十二因緣經)¶
 ¶
 吳月氏優婆塞支謙譯¶
